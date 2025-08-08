@@ -39,3 +39,10 @@ Audio tone creation
 Analog waveform experiments
 
 Educational demos
+
+## 📚 References
+
+- [Barkhausen Criterion](https://en.wikipedia.org/wiki/Barkhausen_stability_criterion)
+- [RC Oscillator Theory](https://www.electronics-tutorials.ws/oscillator/rc_oscillator.html)
+
+---
